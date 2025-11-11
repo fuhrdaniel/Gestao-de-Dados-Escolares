@@ -141,9 +141,8 @@ Foram utilizados commits frequentes com mensagens descritivas (seguindo o padrã
 
 O projeto completo, incluindo todo o código-fonte SQL e o histórico de commits, está disponível publicamente no seguinte repositório:
 
-[COLE O LINK DO SEU REPOSITÓRIO DO GITHUB AQUI]
+(https://github.com/fuhrdaniel/Gestao-de-Dados-Escolares)
 
-(Ex: https://www.google.com/search?q=https://github.com/seu-usuario/projeto-escola-db)
 
 4. Bibliografia
 
